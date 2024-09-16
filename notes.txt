@@ -1,0 +1,15 @@
+Introduction to object relational mapping.
+objectives 
+    1. creating python objects using SQL database records.
+    2. create SQL database records using python object.
+ ORM - object relational mapping is a techninuque usedt o convert database records into objects in an object orienteabed language.
+ ORM allows youto write queries like the one above as well much more compicated ones, using the object oriented paradigm of your preffered programming language.
+ in this case that would be python.
+
+ Topics to be covered.
+    1. The benefits of ORM
+    2. how ORM can abstract database logic.
+    3. How to use data from a database to make python objects.
+    4. Turning databse rown into ptython objects.
+    5. MAPPING A DATABASE table to a pythin object.
+    
